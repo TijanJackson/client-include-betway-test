@@ -1,0 +1,22 @@
+body {
+    background-image: url("https://cdn.betwaygroup.com/medusa-production-cache/b/6/b604ec0b6b3e584899a17fb3255e5177a8e649e0.webp") !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#headerName {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+#buttons {
+    position: fixed !important;
+    top: 50 !important;
+    right: 0 !important;
+}
+
+/* #footer {
+    margin-top: 100px;
+    
+} */
